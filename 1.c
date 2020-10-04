@@ -3,6 +3,7 @@
 int main(){
     
 printf("HELLO HARI OM!!!\n");
-printf("WELCOME TO GIT WORLD");
+printf("WELCOME TO GIT WORLD\n");
+printf("LET'S BEGIN");
     return 0;
 }
